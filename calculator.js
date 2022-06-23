@@ -24,7 +24,7 @@ function calculator(option, num1, num2){
 };
 
 // Addition Example
-calculator('k', 2, 3)
+calculator('a', 2, 3)
 
 // Subtraction Example
 calculator('s', 2, 3)
